@@ -38,7 +38,7 @@ Tip: keep it readable. Recruiters skim. Engineers zoom in.
 
 ## Featured samples (for interviews)
 
-- 🧩 **Code sample (sanitized excerpt):** [ADD_LINK_TO_GIST_OR_REPO]
+- 🧩 **Code sample (sanitized excerpt):** https://gist.github.com/Enraxk/b29514a2a8029affc262ffdcf7576b4a
 - ✍️ **Technical writing sample:** https://gist.github.com/Enraxk/d38340e1ab653f9569763e05c321c6b5
 <!--
 - ⭐ **Best public repo:** [ADD_LINK_TO_YOUR_MAIN_PUBLIC_REPO]
