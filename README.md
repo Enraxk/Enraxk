@@ -23,8 +23,8 @@ Tip: keep it readable. Recruiters skim. Engineers zoom in.
 - 📍 Based in **Madrid, Spain**
 - 🧠 Focus: **frontend architecture**, **real-time data**, and **cloud-native** deployments
 - 🧩 I care about: **clear boundaries**, **maintainability**, and **performance**
-- 🔒 Most of my professional work lives in **private repositories (Bitbucket, GitHub)** (client/org code).  
-  This profile contains **selected public samples**, experiments, and technical notes and my brand new proyect (UCraftEngine).
+- 🔒 Most of my professional work lives in private repositories (Bitbucket), as it is developed for clients and organizations.
+  This profile contains selected public samples, experiments, technical notes, and ongoing personal R&D (UCraftEngine).
 
 ---
 
@@ -37,6 +37,8 @@ Tip: keep it readable. Recruiters skim. Engineers zoom in.
 ---
 
 ## Featured samples (for interviews)
+
+Small, representative excerpts from production systems, shared in a sanitized form.
 
 - 🧩 **Code sample (sanitized excerpt):** https://gist.github.com/Enraxk/b29514a2a8029affc262ffdcf7576b4a
 - ✍️ **Technical writing sample:** https://gist.github.com/Enraxk/d38340e1ab653f9569763e05c321c6b5
