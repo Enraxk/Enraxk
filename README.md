@@ -24,16 +24,16 @@
 
 ## What I'm building
 
-**[naeth](https://github.com/Enraxk/naeth)** · portable memory for AI agents
+**[naeth](https://github.com/Enraxk/naeth)** · portable memory for AI agents<br>
 Postgres + pgvector (HNSW), hybrid retrieval fusing semantic and lexical search with RRF, event-sourced append-only store, async embedding worker. Exposed to LLM clients as 8 MCP tools behind OAuth 2.1. Running in production and used daily from Claude Code and claude.ai.
 
-**[cenit](https://github.com/Enraxk/cenit)** · modular self-hosted platform
+**[cenit](https://github.com/Enraxk/cenit)** · modular self-hosted platform<br>
 A Terraform-style reconciler (`plan` / `apply`, idempotent) that wires each module's identity, ingress, secrets and lifecycle from a single YAML manifest. Runs the identity and exposure layer in front of my own services.
 
-**GridWatch** · enterprise IoT platform (client work, private)
+**GridWatch** · enterprise IoT platform (client work, private)<br>
 React 19 + TypeScript frontend of a platform monitoring 10,000+ devices in real time for electricity distribution networks. ~33,500 LOC, 80+ views, primary contributor.
 
-**Yogin** · SaaS billing backend (freelance, private)
+**Yogin** · SaaS billing backend (freelance, private)<br>
 Node + Express + MongoDB. Per-class payments aggregated into monthly invoices, immutable price snapshots, scheduled invoicing and adjustments, from schema ADR to production. I own the client relationship directly: scoping, written proposals, pricing and delivery.
 
 ---
